@@ -5,7 +5,7 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
-        "tinkoff-invest==1.0.5",
+        "tinkoff-investments",
         "pandas>=1.3.0",
         "pytz"
     ],
